@@ -1,0 +1,805 @@
+[
+  {
+    "race_name": "Australian Grand Prix",
+    "season": 2026,
+    "round": 1,
+    "race_date": "2026-03-08",
+    "laps": 58,
+    "circuit": {
+      "circuit_name": "Albert Park Circuit",
+      "circuit_country": "Australia",
+      "circuit_length_km": 5.278
+    },
+    "results": [
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Chinese Grand Prix",
+    "season": 2026,
+    "round": 2,
+    "race_date": "2026-03-15",
+    "laps": 56,
+    "circuit": {
+      "circuit_name": "Shanghai International Circuit",
+      "circuit_country": "China",
+      "circuit_length_km": 5.451
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Japanese Grand Prix",
+    "season": 2026,
+    "round": 3,
+    "race_date": "2026-03-29",
+    "laps": 53,
+    "circuit": {
+      "circuit_name": "Suzuka International Racing Course",
+      "circuit_country": "Japan",
+      "circuit_length_km": 5.807
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Oscar",
+        "driver_surname": "Piastri",
+        "driver_nationality": "Australian",
+        "constructor": "McLaren",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Miami Grand Prix",
+    "season": 2026,
+    "round": 4,
+    "race_date": "2026-05-03",
+    "laps": 57,
+    "circuit": {
+      "circuit_name": "Miami International Autodrome",
+      "circuit_country": "USA",
+      "circuit_length_km": 5.412
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lando",
+        "driver_surname": "Norris",
+        "driver_nationality": "British",
+        "constructor": "McLaren",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Oscar",
+        "driver_surname": "Piastri",
+        "driver_nationality": "Australian",
+        "constructor": "McLaren",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Canadian Grand Prix",
+    "season": 2026,
+    "round": 5,
+    "race_date": "2026-05-24",
+    "laps": 70,
+    "circuit": {
+      "circuit_name": "Circuit Gilles Villeneuve",
+      "circuit_country": "Canada",
+      "circuit_length_km": 4.361
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Monaco Grand Prix",
+    "season": 2026,
+    "round": 6,
+    "race_date": "2026-06-07",
+    "laps": 78,
+    "circuit": {
+      "circuit_name": "Circuit de Monaco",
+      "circuit_country": "Monaco",
+      "circuit_length_km": 3.337
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Isack",
+        "driver_surname": "Hadjar",
+        "driver_nationality": "French",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Barcelona Grand Prix",
+    "season": 2026,
+    "round": 7,
+    "race_date": "2026-06-14",
+    "laps": 66,
+    "circuit": {
+      "circuit_name": "Circuit de Barcelona-Catalunya",
+      "circuit_country": "Spain",
+      "circuit_length_km": 4.657
+    },
+    "results": [
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lando",
+        "driver_surname": "Norris",
+        "driver_nationality": "British",
+        "constructor": "McLaren",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Austrian Grand Prix",
+    "season": 2026,
+    "round": 8,
+    "race_date": "2026-06-28",
+    "laps": 71,
+    "circuit": {
+      "circuit_name": "Red Bull Ring",
+      "circuit_country": "Austria",
+      "circuit_length_km": 4.318
+    },
+    "results": [
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "British Grand Prix",
+    "season": 2026,
+    "round": 9,
+    "race_date": "2026-07-05",
+    "laps": 52,
+    "circuit": {
+      "circuit_name": "Silverstone Circuit",
+      "circuit_country": "United Kingdom",
+      "circuit_length_km": 5.891
+    },
+    "results": [
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Belgian Grand Prix",
+    "season": 2026,
+    "round": 10,
+    "race_date": "2026-07-19",
+    "laps": 44,
+    "circuit": {
+      "circuit_name": "Circuit de Spa-Francorchamps",
+      "circuit_country": "Belgium",
+      "circuit_length_km": 7.004
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Hungarian Grand Prix",
+    "season": 2026,
+    "round": 11,
+    "race_date": "2026-07-26",
+    "laps": 70,
+    "circuit": {
+      "circuit_name": "Hungaroring",
+      "circuit_country": "Hungary",
+      "circuit_length_km": 4.381
+    },
+    "results": [
+      {
+        "driver_name": "Lando",
+        "driver_surname": "Norris",
+        "driver_nationality": "British",
+        "constructor": "McLaren",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Dutch Grand Prix",
+    "season": 2026,
+    "round": 12,
+    "race_date": "2026-08-23",
+    "laps": 72,
+    "circuit": {
+      "circuit_name": "Circuit Zandvoort",
+      "circuit_country": "Netherlands",
+      "circuit_length_km": 4.259
+    },
+    "results": [
+      {
+        "driver_name": "Lando",
+        "driver_surname": "Norris",
+        "driver_nationality": "British",
+        "constructor": "McLaren",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Italian Grand Prix",
+    "season": 2026,
+    "round": 13,
+    "race_date": "2026-09-06",
+    "laps": 53,
+    "circuit": {
+      "circuit_name": "Autodromo Nazionale di Monza",
+      "circuit_country": "Italy",
+      "circuit_length_km": 5.793
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Spanish Grand Prix",
+    "season": 2026,
+    "round": 14,
+    "race_date": "2026-09-13",
+    "laps": 57,
+    "circuit": {
+      "circuit_name": "Madring",
+      "circuit_country": "Spain",
+      "circuit_length_km": 5.414
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lando",
+        "driver_surname": "Norris",
+        "driver_nationality": "British",
+        "constructor": "McLaren",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Azerbaijan Grand Prix",
+    "season": 2026,
+    "round": 15,
+    "race_date": "2026-09-26",
+    "laps": 51,
+    "circuit": {
+      "circuit_name": "Baku City Circuit",
+      "circuit_country": "Azerbaijan",
+      "circuit_length_km": 6.003
+    },
+    "results": [
+      {
+        "driver_name": "George",
+        "driver_surname": "Russell",
+        "driver_nationality": "British",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Isack",
+        "driver_surname": "Hadjar",
+        "driver_nationality": "French",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Bahrain Grand Prix",
+    "season": 2026,
+    "round": 16,
+    "race_date": "2026-10-04",
+    "laps": 56,
+    "circuit": {
+      "circuit_name": "Bahrain International Circuit",
+      "circuit_country": "Bahrain",
+      "circuit_length_km": 5.412
+    },
+    "results": [
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Lewis",
+        "driver_surname": "Hamilton",
+        "driver_nationality": "British",
+        "constructor": "Ferrari",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Singapore Grand Prix",
+    "season": 2026,
+    "round": 17,
+    "race_date": "2026-10-11",
+    "laps": 62,
+    "circuit": {
+      "circuit_name": "Marina Bay Street Circuit",
+      "circuit_country": "Singapore",
+      "circuit_length_km": 4.94
+    },
+    "results": [
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "United States Grand Prix",
+    "season": 2026,
+    "round": 18,
+    "race_date": "2026-10-19",
+    "laps": 56,
+    "circuit": {
+      "circuit_name": "Circuit of the Americas",
+      "circuit_country": "USA",
+      "circuit_length_km": 5.513
+    },
+    "results": [
+      {
+        "driver_name": "Kimi",
+        "driver_surname": "Antonelli",
+        "driver_nationality": "Italian",
+        "constructor": "Mercedes",
+        "position": 1,
+        "points": 25,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Charles",
+        "driver_surname": "Leclerc",
+        "driver_nationality": "Monegasque",
+        "constructor": "Ferrari",
+        "position": 2,
+        "points": 18,
+        "status": "Finished"
+      },
+      {
+        "driver_name": "Max",
+        "driver_surname": "Verstappen",
+        "driver_nationality": "Dutch",
+        "constructor": "Red Bull Racing",
+        "position": 3,
+        "points": 15,
+        "status": "Finished"
+      }
+    ]
+  },
+  {
+    "race_name": "Mexican Grand Prix",
+    "season": 2026,
+    "round": 19,
+    "race_date": "2026-10-26",
+    "laps": 71,
+    "circuit": {
+      "circuit_name": "Autódromo Hermanos Rodríguez",
+      "circuit_country": "Mexico",
+      "circuit_length_km": 4.304
+    },
+    "results": null
+  },
+  {
+    "race_name": "Brazilian Grand Prix",
+    "season": 2026,
+    "round": 20,
+    "race_date": "2026-11-09",
+    "laps": 71,
+    "circuit": {
+      "circuit_name": "Autodromo José Carlos Pace",
+      "circuit_country": "Brazil",
+      "circuit_length_km": 4.309
+    },
+    "results": null
+  },
+  {
+    "race_name": "Las Vegas Grand Prix",
+    "season": 2026,
+    "round": 21,
+    "race_date": "2026-11-23",
+    "laps": 50,
+    "circuit": {
+      "circuit_name": "Las Vegas Strip Circuit",
+      "circuit_country": "USA",
+      "circuit_length_km": 6.201
+    },
+    "results": null
+  },
+  {
+    "race_name": "Qatar Grand Prix",
+    "season": 2026,
+    "round": 22,
+    "race_date": "2026-11-30",
+    "laps": 57,
+    "circuit": {
+      "circuit_name": "Lusail International Circuit",
+      "circuit_country": "Qatar",
+      "circuit_length_km": 5.419
+    },
+    "results": null
+  },
+  {
+    "race_name": "Abu Dhabi Grand Prix",
+    "season": 2026,
+    "round": 23,
+    "race_date": "2026-12-07",
+    "laps": 58,
+    "circuit": {
+      "circuit_name": "Yas Marina Circuit",
+      "circuit_country": "UAE",
+      "circuit_length_km": 5.281
+    },
+    "results": null
+  }
+]

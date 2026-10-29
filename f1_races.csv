@@ -1,0 +1,55 @@
+race_name,season,round,race_date,laps,circuit_name,circuit_country,circuit_length_km,driver_name,driver_surname,driver_nationality,constructor,position,points,status
+Australian Grand Prix,2026,1,2026-03-08,58,Albert Park Circuit,Australia,5.278,George,Russell,British,Mercedes,1,25,Finished
+Australian Grand Prix,2026,1,2026-03-08,58,Albert Park Circuit,Australia,5.278,Kimi,Antonelli,Italian,Mercedes,2,18,Finished
+Australian Grand Prix,2026,1,2026-03-08,58,Albert Park Circuit,Australia,5.278,Charles,Leclerc,Monegasque,Ferrari,3,15,Finished
+Chinese Grand Prix,2026,2,2026-03-15,56,Shanghai International Circuit,China,5.451,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Chinese Grand Prix,2026,2,2026-03-15,56,Shanghai International Circuit,China,5.451,George,Russell,British,Mercedes,2,18,Finished
+Chinese Grand Prix,2026,2,2026-03-15,56,Shanghai International Circuit,China,5.451,Lewis,Hamilton,British,Ferrari,3,15,Finished
+Japanese Grand Prix,2026,3,2026-03-29,53,Suzuka International Racing Course,Japan,5.807,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Japanese Grand Prix,2026,3,2026-03-29,53,Suzuka International Racing Course,Japan,5.807,Oscar,Piastri,Australian,McLaren,2,18,Finished
+Japanese Grand Prix,2026,3,2026-03-29,53,Suzuka International Racing Course,Japan,5.807,Charles,Leclerc,Monegasque,Ferrari,3,15,Finished
+Miami Grand Prix,2026,4,2026-05-03,57,Miami International Autodrome,USA,5.412,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Miami Grand Prix,2026,4,2026-05-03,57,Miami International Autodrome,USA,5.412,Lando,Norris,British,McLaren,2,18,Finished
+Miami Grand Prix,2026,4,2026-05-03,57,Miami International Autodrome,USA,5.412,Oscar,Piastri,Australian,McLaren,3,15,Finished
+Canadian Grand Prix,2026,5,2026-05-24,70,Circuit Gilles Villeneuve,Canada,4.361,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Canadian Grand Prix,2026,5,2026-05-24,70,Circuit Gilles Villeneuve,Canada,4.361,Lewis,Hamilton,British,Ferrari,2,18,Finished
+Canadian Grand Prix,2026,5,2026-05-24,70,Circuit Gilles Villeneuve,Canada,4.361,Max,Verstappen,Dutch,Red Bull Racing,3,15,Finished
+Monaco Grand Prix,2026,6,2026-06-07,78,Circuit de Monaco,Monaco,3.337,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Monaco Grand Prix,2026,6,2026-06-07,78,Circuit de Monaco,Monaco,3.337,Lewis,Hamilton,British,Ferrari,2,18,Finished
+Monaco Grand Prix,2026,6,2026-06-07,78,Circuit de Monaco,Monaco,3.337,Isack,Hadjar,French,Red Bull Racing,3,15,Finished
+Barcelona Grand Prix,2026,7,2026-06-14,66,Circuit de Barcelona-Catalunya,Spain,4.657,Lewis,Hamilton,British,Ferrari,1,25,Finished
+Barcelona Grand Prix,2026,7,2026-06-14,66,Circuit de Barcelona-Catalunya,Spain,4.657,George,Russell,British,Mercedes,2,18,Finished
+Barcelona Grand Prix,2026,7,2026-06-14,66,Circuit de Barcelona-Catalunya,Spain,4.657,Lando,Norris,British,McLaren,3,15,Finished
+Austrian Grand Prix,2026,8,2026-06-28,71,Red Bull Ring,Austria,4.318,George,Russell,British,Mercedes,1,25,Finished
+Austrian Grand Prix,2026,8,2026-06-28,71,Red Bull Ring,Austria,4.318,Max,Verstappen,Dutch,Red Bull Racing,2,18,Finished
+Austrian Grand Prix,2026,8,2026-06-28,71,Red Bull Ring,Austria,4.318,Kimi,Antonelli,Italian,Mercedes,3,15,Finished
+British Grand Prix,2026,9,2026-07-05,52,Silverstone Circuit,United Kingdom,5.891,Charles,Leclerc,Monegasque,Ferrari,1,25,Finished
+British Grand Prix,2026,9,2026-07-05,52,Silverstone Circuit,United Kingdom,5.891,George,Russell,British,Mercedes,2,18,Finished
+British Grand Prix,2026,9,2026-07-05,52,Silverstone Circuit,United Kingdom,5.891,Lewis,Hamilton,British,Ferrari,3,15,Finished
+Belgian Grand Prix,2026,10,2026-07-19,44,Circuit de Spa-Francorchamps,Belgium,7.004,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Belgian Grand Prix,2026,10,2026-07-19,44,Circuit de Spa-Francorchamps,Belgium,7.004,Charles,Leclerc,Monegasque,Ferrari,2,18,Finished
+Belgian Grand Prix,2026,10,2026-07-19,44,Circuit de Spa-Francorchamps,Belgium,7.004,Max,Verstappen,Dutch,Red Bull Racing,3,15,Finished
+Hungarian Grand Prix,2026,11,2026-07-26,70,Hungaroring,Hungary,4.381,Lando,Norris,British,McLaren,1,25,Finished
+Hungarian Grand Prix,2026,11,2026-07-26,70,Hungaroring,Hungary,4.381,Max,Verstappen,Dutch,Red Bull Racing,2,18,Finished
+Hungarian Grand Prix,2026,11,2026-07-26,70,Hungaroring,Hungary,4.381,Kimi,Antonelli,Italian,Mercedes,3,15,Finished
+Dutch Grand Prix,2026,12,2026-08-23,72,Circuit Zandvoort,Netherlands,4.259,Lando,Norris,British,McLaren,1,25,Finished
+Dutch Grand Prix,2026,12,2026-08-23,72,Circuit Zandvoort,Netherlands,4.259,Kimi,Antonelli,Italian,Mercedes,2,18,Finished
+Dutch Grand Prix,2026,12,2026-08-23,72,Circuit Zandvoort,Netherlands,4.259,George,Russell,British,Mercedes,3,15,Finished
+Italian Grand Prix,2026,13,2026-09-06,53,Autodromo Nazionale di Monza,Italy,5.793,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Italian Grand Prix,2026,13,2026-09-06,53,Autodromo Nazionale di Monza,Italy,5.793,George,Russell,British,Mercedes,2,18,Finished
+Italian Grand Prix,2026,13,2026-09-06,53,Autodromo Nazionale di Monza,Italy,5.793,Max,Verstappen,Dutch,Red Bull Racing,3,15,Finished
+Spanish Grand Prix,2026,14,2026-09-13,57,Madring,Spain,5.414,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+Spanish Grand Prix,2026,14,2026-09-13,57,Madring,Spain,5.414,Max,Verstappen,Dutch,Red Bull Racing,2,18,Finished
+Spanish Grand Prix,2026,14,2026-09-13,57,Madring,Spain,5.414,Lando,Norris,British,McLaren,3,15,Finished
+Azerbaijan Grand Prix,2026,15,2026-09-26,51,Baku City Circuit,Azerbaijan,6.003,George,Russell,British,Mercedes,1,25,Finished
+Azerbaijan Grand Prix,2026,15,2026-09-26,51,Baku City Circuit,Azerbaijan,6.003,Max,Verstappen,Dutch,Red Bull Racing,2,18,Finished
+Azerbaijan Grand Prix,2026,15,2026-09-26,51,Baku City Circuit,Azerbaijan,6.003,Isack,Hadjar,French,Red Bull Racing,3,15,Finished
+Bahrain Grand Prix,2026,16,2026-10-04,56,Bahrain International Circuit,Bahrain,5.412,Max,Verstappen,Dutch,Red Bull Racing,1,25,Finished
+Bahrain Grand Prix,2026,16,2026-10-04,56,Bahrain International Circuit,Bahrain,5.412,Kimi,Antonelli,Italian,Mercedes,2,18,Finished
+Bahrain Grand Prix,2026,16,2026-10-04,56,Bahrain International Circuit,Bahrain,5.412,Lewis,Hamilton,British,Ferrari,3,15,Finished
+Singapore Grand Prix,2026,17,2026-10-11,62,Marina Bay Street Circuit,Singapore,4.940,Max,Verstappen,Dutch,Red Bull Racing,1,25,Finished
+Singapore Grand Prix,2026,17,2026-10-11,62,Marina Bay Street Circuit,Singapore,4.940,Charles,Leclerc,Monegasque,Ferrari,2,18,Finished
+Singapore Grand Prix,2026,17,2026-10-11,62,Marina Bay Street Circuit,Singapore,4.940,Kimi,Antonelli,Italian,Mercedes,3,15,Finished
+United States Grand Prix,2026,18,2026-10-19,56,Circuit of the Americas,USA,5.513,Kimi,Antonelli,Italian,Mercedes,1,25,Finished
+United States Grand Prix,2026,18,2026-10-19,56,Circuit of the Americas,USA,5.513,Charles,Leclerc,Monegasque,Ferrari,2,18,Finished
+United States Grand Prix,2026,18,2026-10-19,56,Circuit of the Americas,USA,5.513,Max,Verstappen,Dutch,Red Bull Racing,3,15,Finished
