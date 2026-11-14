@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Otvoreni skup podataka o utrkama Formule 1 u sezoni 2026. Stvoren je za predmet Otvoreno računarstvo na FER-u. Svaku utrku opisuju datum, broj krugova i staza te rezultati s podija. Podaci su spremljeni u PostgreSQL bazi podataka te izvezeni putem shell skripte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikk-lovric/f1-utrke-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominikk-lovric/f1-utrke-2026/issues"
+  },
+  "homepage": "https://github.com/dominikk-lovric/f1-utrke-2026#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}

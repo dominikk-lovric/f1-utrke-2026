@@ -1,0 +1,122 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://localhost:3000/schema.json",
+    "title": "Podaci o utrkama Formule 1 2026",
+    "description": "Rezultati utrka Formule 1 u sezoni 2026.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": [
+            "race_name",
+            "season",
+            "round",
+            "race_date",
+            "laps",
+            "circuit",
+            "results"
+        ],
+        "properties": {
+            "race_name": {
+                "type": "string",
+                "description": "Naziv Grand Prix utrke."
+            },
+            "season": {
+                "type": "integer",
+                "description": "Godina sezone Formule 1."
+            },
+            "round": {
+                "type": "integer",
+                "minimum": 1,
+                "description": "Redni broj utrke u sezoni."
+            },
+            "race_date": {
+                "type": "string",
+                "format": "date",
+                "description": "Datum utrke u formatu YYYY-MM-DD."
+            },
+            "laps": {
+                "type": "integer",
+                "minimum": 1,
+                "description": "Broj krugova utrke."
+            },
+            "circuit": {
+                "type": "object",
+                "required": [
+                    "circuit_name",
+                    "circuit_country",
+                    "circuit_length_km"
+                ],
+                "properties": {
+                    "circuit_name": {
+                        "type": "string",
+                        "description": "Naziv trkaće staze."
+                    },
+                    "circuit_country": {
+                        "type": "string",
+                        "description": "Država u kojoj se nalazi staza."
+                    },
+                    "circuit_length_km": {
+                        "type": "number",
+                        "exclusiveMinimum": 0,
+                        "description": "Duljina staze u kilometrima."
+                    }
+                }
+            },
+            "results": {
+                "description": "Rezultati vozača; null ako rezultati još nisu dostupni.",
+                "oneOf": [
+                    {
+                        "type": "null"
+                    },
+                    {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "driver_name",
+                                "driver_surname",
+                                "driver_nationality",
+                                "constructor",
+                                "position",
+                                "points",
+                                "status"
+                            ],
+                            "properties": {
+                                "driver_name": {
+                                    "type": "string",
+                                    "description": "Ime vozača."
+                                },
+                                "driver_surname": {
+                                    "type": "string",
+                                    "description": "Prezime vozača."
+                                },
+                                "driver_nationality": {
+                                    "type": "string",
+                                    "description": "Nacionalnost vozača."
+                                },
+                                "constructor": {
+                                    "type": "string",
+                                    "description": "Naziv konstruktora odnosno momčadi."
+                                },
+                                "position": {
+                                    "type": "integer",
+                                    "minimum": 1,
+                                    "description": "Završna pozicija vozača."
+                                },
+                                "points": {
+                                    "type": "number",
+                                    "minimum": 0,
+                                    "description": "Broj bodova osvojenih u utrci."
+                                },
+                                "status": {
+                                    "type": "string",
+                                    "description": "Status završetka utrke."
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
